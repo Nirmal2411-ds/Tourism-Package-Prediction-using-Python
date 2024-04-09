@@ -1,1 +1,7 @@
 # Tourism-Package-Prediction-using-Python
+Context: The policymaker of a tourism company named "Elysian Adventures" wants to establish a business model to expand the customer base, to understand the existing ways of doing the business and how to change the ways for the benefit of the tourism sector.
+One of the ways to expand the customer base is to introduce a new offering of packages. Currently, there are 5 types of packages the company is offering - Basic, Standard, Deluxe, Super Deluxe, and King. Looking at the data of the last year, it was observed that 18% of the customers purchased the packages. However, it was difficult to identify the potential customers because customers were contacted at random without looking at the available information.
+The company is now planning to launch a new product i.e. Relaxation Tour Package. Relaxation Tour is a package that allows the traveler to maintain, enhance, or kick-start a healthy lifestyle, and support or increase one's sense of well-being. For the launch of the new package, the company wants to harness the available data of existing and potential customers to target the right customers.
+
+
+Objective: I as a Data Scientist at "Elysian Adventures" travel company has to analyze the customer data and information to provide recommendations to the policymaker and build a model to predict the chances of a potential customer purchasing the newly introduced travel package before the customer is contacted.
